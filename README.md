@@ -35,10 +35,8 @@ The program provides a simple menu-driven workflow for entering student informat
 Student-Record-Management-System/
 ├── README.md
 ├── .gitignore
-├── src/
-│   └── main.cpp
-└── data/
-    └── students.txt
+└── src/
+    └── main.cpp
 ```
 
 ## Running the Project
@@ -49,13 +47,9 @@ Compile with a C++ compiler:
 g++ src/main.cpp -o student_records
 ```
 
-Run the executable:
+The current program expects `students.txt` in the program's working directory.
 
-```bash
-./student_records
-```
-
-On Windows, the executable can be run as:
+On Windows, run:
 
 ```text
 student_records.exe
