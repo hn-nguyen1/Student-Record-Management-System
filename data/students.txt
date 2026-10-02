@@ -1,0 +1,3 @@
+Alex 1001 92
+Jordan 1002 85
+Taylor 1003 97
